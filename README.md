@@ -20,6 +20,14 @@ conda activate [myenv]
 ```
 conda install --file requirements.txt
 ```
+4.1. For any libraries that cannot be installed for reasons not known, simply install them manually using
+```
+conda install [missing module]
+```
+eg.
+```
+conda install scikit-learn
+```
 5. Open Jupyter Notebook to view and run 'main.ipynb'
 ```
 jupyter notebook
