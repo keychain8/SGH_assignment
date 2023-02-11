@@ -20,7 +20,7 @@ conda activate [myenv]
 ```
 conda install --file requirements.txt
 ```
-4.1. For any libraries that cannot be installed for reasons not known, simply install them manually using
+For any libraries that cannot be installed for reasons not known, simply install them manually using
 ```
 conda install [missing module]
 ```
