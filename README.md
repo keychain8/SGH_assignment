@@ -20,11 +20,11 @@ conda activate [myenv]
 ```
 conda install --file requirements.txt
 ```
-     For any libraries that cannot be installed for reasons not known, simply install them manually using
+   For any libraries that cannot be installed for reasons not known, simply install them manually using
 ```
 conda install [missing module]
 ```
-     eg.
+   eg.
 ```
 conda install scikit-learn
 ```
