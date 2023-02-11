@@ -1,6 +1,6 @@
 # SGH_assignment
 
-The steps below assumes you have anaconda installed on the machine.
+The steps below assumes you have anaconda installed on the machine. <br>
 Installation can be found here: https://docs.anaconda.com/anaconda/install/
 
 To run file:
