@@ -1,6 +1,7 @@
 # SGH_assignment
 
 The steps below assumes you have anaconda installed on the machine.
+Installation can be found here: https://docs.anaconda.com/anaconda/install/
 
 To run file:
 1. open anaconda prompt and git clone into local machine.
