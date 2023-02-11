@@ -24,7 +24,7 @@ conda install --file requirements.txt
 ```
 jupyter notebook
 ```
-<br><br><br>
+<br><br>
 
 *For any libraries that cannot be installed for reasons not known, simply install them manually using
 ```
